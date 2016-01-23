@@ -1,1 +1,10 @@
 c:\users\vermont2050\documents\visual studio 2015\Projects\domashke_tester\domashke_tester\bin\Debug\domashke_tester.exe.config
+C:\Users\vermont2050\Documents\GitHub\new\domashke_tester\bin\Debug\domashke_tester.exe.config
+C:\Users\vermont2050\Documents\GitHub\new\domashke_tester\bin\Debug\domashke_tester.exe
+C:\Users\vermont2050\Documents\GitHub\new\domashke_tester\bin\Debug\domashke_tester.pdb
+C:\Users\vermont2050\Documents\GitHub\new\domashke_tester\obj\Debug\domashke_tester.csprojResolveAssemblyReference.cache
+C:\Users\vermont2050\Documents\GitHub\new\domashke_tester\obj\Debug\domashke_tester.Form1.resources
+C:\Users\vermont2050\Documents\GitHub\new\domashke_tester\obj\Debug\domashke_tester.Properties.Resources.resources
+C:\Users\vermont2050\Documents\GitHub\new\domashke_tester\obj\Debug\domashke_tester.csproj.GenerateResource.Cache
+C:\Users\vermont2050\Documents\GitHub\new\domashke_tester\obj\Debug\domashke_tester.exe
+C:\Users\vermont2050\Documents\GitHub\new\domashke_tester\obj\Debug\domashke_tester.pdb
